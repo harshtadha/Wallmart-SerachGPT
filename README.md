@@ -117,7 +117,7 @@ Contributions are welcome! Here are several ways you can contribute:
 You can deploy the project using Docker or Streamlit. You can also deploy the project using Heroku, AWS, or any other cloud platform.
 
 ## 🧑‍🚀How to contact the Author
-You can contact me at: [Email](tadhaharsh.dev@gmail.com)
+You can contact me at: [Email] - [tadhaharsh.dev@gmail.com]
 
 [**Return**](#Top)
 
