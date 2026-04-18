@@ -27,20 +27,7 @@ Language Models: Large language models are utilized in combination with LangChai
 
 ---
 
-## 📦 Features
 
-|    | Feature            | Description                                                                                                        |
-|----|--------------------|--------------------------------------------------------------------------------------------------------------------|
-| ⚙️ | **Architecture**   | The system is a conversational agent combining REST APIs, Search and Recommendation systems built with Python. It utilizes Python scripts, Jupyter Notebook, and Docker for deployment.|
-| 📄 | **Documentation**  | The repository lacks a comprehensive README.md file, providing a detailed explanation of the system. Absence of inline comments make it hard to understand the modules' purpose.|
-| 🔗 | **Dependencies**   | The system extensively relies on external libraries such as Pydantic, FAISS, OpenAI, Pinecone, DuckDuckGo, and much more for operating its functionalities.|
-| 🧩 | **Modularity**     | The system is loosely coupled and separated into several scripts, each responsible for handling a certain aspect, making it adaptable, understandable, and maintainable.|
-| 🧪 | **Testing**        | The system uses pytest as a testing framework but lacks any presence of dedicated test cases to validate its functionality.   |
-| ⚡️ | **Performance**    | The system's performance heavily relies on the  efficiency of GPT AI model & Pinecone search engine, hence can be inferred to be performant. But it lacks performance testing or benchmarking.|
-| 🔐 | **Security**       | There aren't any explicit security measures found. The system being API based, needs to ensure critical information is sanitized before processing. |
-| 🔀 | **Version Control**| The repository lacks specific version control strategy as there's absence of branches, tags or even comprehensive commit messages. |
-| 🔌 | **Integrations**   | The system integrates with various Python libraries, APIs, GPT AI model, and Walmart's product data, supporting the bot functionalities.|
-| 📶 | **Scalability**    | The system is scalable due to its loosely coupled design that would support future enhancements, provided there is efficient error handling and architectural improvements. |
 
 
 ---
@@ -107,7 +94,9 @@ streamlit run streamlit_interface.py
 
 ## 🛣 Project Screenshots
 
-![Walmart_Bot Screenshot](https://raw.githubusercontent.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/main/Images/walmart_bot-screenshot.png)
+![Walmart_Bot Screenshot](https://github.com/harshtadha/Wallmart-SerachGPT/blob/main/Images/searcGPT_screenshot.png)
+
+![Walmart_Bot Screenshot](https://github.com/harshtadha/Wallmart-SerachGPT/blob/main/Images/walmart_bot-screenshot.png)
 
 ---
 
